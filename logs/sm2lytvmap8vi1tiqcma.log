@@ -1,0 +1,1 @@
+{"check":{"id":"sm2lytvmap8vi1tiqcma","protocol":"https","url":"quora.com","method":"get","successCodes":[200,201],"timeoutSeconds":3,"userPhone":"9999987678","state":"down","lastChecked":1552109972560},"outcome":{"Error":false,"responseCode":308},"state":"down","alert":false,"time":1552109972560}
